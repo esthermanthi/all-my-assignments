@@ -1,0 +1,19 @@
+body{
+	background-color:light-blue;
+	color:white;
+	background-image:url("https://mcdn.wallpapersafari.com/medium/7/42/pKFQZE.png")
+}
+h1,h2,h3,h4{
+	font-size:30px;
+	font-weight:bold;
+	color:red;
+}
+
+p{
+
+	font-size:30px;
+	font-weight:bold;
+	color:white;
+}
+
+
